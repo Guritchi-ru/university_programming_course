@@ -41,3 +41,5 @@
 
 Шаги 16 и 17
 ![alt text](images/image11.png)
+![alt text](images/image12.png)
+// копируем файл README.md из main в mybranch
