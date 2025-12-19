@@ -9,7 +9,7 @@ complex_number addComplex(complex_number a, complex_number b) {
     complex_number result;
     result.x = a.x + b.x;
     result.y = a.y + b.y;
-    return result; // возврат структуры из функции
+    return result;
 }
 
 complex_number multiplyComplex(complex_number a, complex_number b) {

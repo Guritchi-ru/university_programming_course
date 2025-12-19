@@ -2,11 +2,11 @@
 
 int main() {
     complex_number a, b, c, Q;
-    complex_number b2, b_plus_c, temp1, temp2;
+    complex_number b2, b_plus_c, temp1;
     
-    initComplex(&a, 4.0f, 3.0f);   // a = 2 + 3i
-    initComplex(&b, 2.0f, -1.0f);  // b = 1 - i
-    initComplex(&c, 0.5f, 2.1f);   // c = 0.5 + 2i
+    initComplex(&a, 4.0f, 3.0f);
+    initComplex(&b, 2.0f, -1.0f);
+    initComplex(&c, 0.5f, 2.1f);
     
     printf("Исходные комплексные числа:\n");
     printComplex(a, "a");
