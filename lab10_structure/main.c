@@ -3,7 +3,7 @@
 int main() {
     complex_number a, b, c, Q;
     complex_number b2, b_plus_c, temp1;
-    
+
     initComplex(&a, 4.0f, 3.0f);
     initComplex(&b, 2.0f, -1.0f);
     initComplex(&c, 0.5f, 2.1f);

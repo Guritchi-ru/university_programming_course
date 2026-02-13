@@ -1,1 +1,5 @@
 lab10_structure/myprogramm
+lab12_libraries/app
+*.o
+*.a
+.vscode
