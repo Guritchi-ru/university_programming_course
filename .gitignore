@@ -2,4 +2,6 @@ lab10_structure/myprogramm
 lab12_libraries/app
 *.o
 *.a
+*.so
 .vscode
+**/images/
