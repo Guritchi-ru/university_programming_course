@@ -4,4 +4,4 @@ lab12_libraries/app
 *.a
 *.so
 .vscode
-**/images/
+lab16_threads/bin/
