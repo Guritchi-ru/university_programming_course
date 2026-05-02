@@ -6,6 +6,7 @@
 
 ![Alt text](images/image1.png)
 ![Alt text](images/image2.png)
+
 ![task1-2.c](task1-2.c)
 
 Задание 3:
@@ -14,6 +15,7 @@
 различные последовательности строк.
 
 ![Alt text](images/image3.png)
+
 ![task3.c](task3.c)
 
 Задание 4:
@@ -24,6 +26,7 @@
 помощью pthread_cancel().
 
 ![Alt text](images/image4.png)
+
 ![task4.c](task4.c)
 
 Задание 5:
@@ -31,12 +34,14 @@
 Код задания 4 был модифицирован так, чтобы дочерний поток перед завершение
 распечатывал сообщение об этом.
 
-![task5.c](task5.c)
 ![Alt text](images/image5.png)
+
+![task5.c](task5.c)
 
 Задание 6:
 
 Был реализован алгоритм сортировки Sleepsort.
 
-![task6.c](task6.c)
 ![Alt text](images/image6.png)
+
+![task6.c](task6.c)
