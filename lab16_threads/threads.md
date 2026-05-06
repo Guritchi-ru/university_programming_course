@@ -7,7 +7,7 @@
 ![Alt text](images/image1.png)
 ![Alt text](images/image2.png)
 
-![task1-2.c](task1-2.c)
+[task1-2.c](task1-2.c)
 
 Задание 3:
 
@@ -16,7 +16,7 @@
 
 ![Alt text](images/image3.png)
 
-![task3.c](task3.c)
+[task3.c](task3.c)
 
 Задание 4:
 
@@ -27,7 +27,7 @@
 
 ![Alt text](images/image4.png)
 
-![task4.c](task4.c)
+[task4.c](task4.c)
 
 Задание 5:
 
@@ -36,7 +36,7 @@
 
 ![Alt text](images/image5.png)
 
-![task5.c](task5.c)
+[task5.c](task5.c)
 
 Задание 6:
 
@@ -44,7 +44,7 @@
 
 ![Alt text](images/image6.png)
 
-![task6.c](task6.c)
+[task6.c](task6.c)
 
 ОЦЕНКА 4. Перемножение матриц
 
@@ -54,7 +54,7 @@
 
 ![Alt text](images/image7.png)
 
-![task7.c](task7.c)
+[task7.c](task7.c)
 
 Задание 8:
 
@@ -63,7 +63,7 @@
 
 ![Alt text](images/image8.png)
 
-![task8-9.c](task8-9.c)
+[task8-9.c](task8-9.c)
 
 Задание 9:
 
