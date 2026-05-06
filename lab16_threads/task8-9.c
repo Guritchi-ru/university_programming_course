@@ -33,7 +33,7 @@ void* multiply(void* arg) {
 
     for (int i = data->start; i < data->end; i++) {
         for (int k = 0; k < N; k++) {
-            int aik = A[i * N + k];  // Загружаем один раз
+            int aik = A[i * N + k];
             for (int j = 0; j < N; j++) {
                 C[i * N + j] += aik * B[k * N + j];
             }
