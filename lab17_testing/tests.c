@@ -10,32 +10,6 @@
 #include <sys/time.h>
 #include <struct_and_func.h>
 
-//Исходный код
-// struct ThreadData{
-//     int nomer_str;
-//     int str_count;
-//     int n;
-//     int *A;
-//     int *B;
-//     int *C;
-// }typedef ThreadData;
-
-// void* ProizvedMat(void* arg){
-//     ThreadData *data = (ThreadData*)arg;
-//     for (int i = data->nomer_str; i < (data->nomer_str + data->str_count); i++) {          
-//         for (int j = 0; j < data->n; j++) {     
-//             data->C[i * data-> n + j] = 0;                    
-//             for (int k = 0; k < data->n; k++) {   
-//                 data->C[i * data->n + j] += data->A[i * data->n + k] * data->B[k * data->n + j];
-//             }
-//         }
-//     }
-//     free(data);
-//     return NULL;
-// }
-
-
-//UNIT ТЕСТЫ
 static void test_multiply_2x2(void **state) {
     int A[] = {1,2,3,4};
     int B[] = {5,6,7,8};
@@ -277,15 +251,3 @@ int main(int argc, char *argv[]) {
     
     return 0;
 }
-
-// int main(void) {
-//     const struct CMUnitTest tests[] = {
-//         cmocka_unit_test(test_multiply_2x2),
-//         cmocka_unit_test(test_multiply_3x3),
-//         cmocka_unit_test(test_filled_ones_2x2),
-//         cmocka_unit_test(test_zero_matrix),
-//         cmocka_unit_test(test_identity_3x3),
-//         cmocka_unit_test(test_emulate_multithread),
-//     };
-//     return cmocka_run_group_tests(tests, NULL, NULL);
-// }
